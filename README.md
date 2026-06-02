@@ -212,21 +212,6 @@ Risk scoring is based on established breast cancer risk factors from:
 
 Referral decisions follow the **Kenya Ministry of Health referral pathway** for breast conditions at primary care level.
 
-## 🔮 Roadmap
-
-- [x] Fully connected module flow — zero re-entry of data
-- [x] Patient auto-added to Follow-Up Tracker on assessment
-- [x] Patient Journey Timeline — visual history per patient
-- [x] Re-Assessment with pre-filled patient context
-- [x] Live analytics from session data
-- [x] Offline support
-- [x] Built-in clinical chatbot
-- [ ] Kenya Health Information System (KHIS) API integration
-- [ ] SMS follow-up reminders via Africa's Talking API
-- [ ] Multi-user login (per-facility practitioner accounts)
-- [ ] IRB-approved pilot — Nairobi / Kisumu County
-- [ ] Swahili language support
-
 
 ## 👩🏾‍💻 Built With
 
