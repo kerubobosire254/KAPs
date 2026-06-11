@@ -86,27 +86,6 @@ A **7-module, fully connected, offline-first** clinical decision support platfor
 | 🔔 Follow-Up Protocols | Post-referral steps, escalation, tracker usage |
 | 🛡️ Prevention | Lifestyle, screening schedules, early detection |
 
-CareBot uses regex pattern matching to parse clinical questions and returns structured, evidence-based answers — all offline. 7 pre-built quick-question chips for one-tap access.
-
-### 📊 Risk Score Gauge
-Risk Assessment results now display a **Plotly gauge chart** (0–100 scale, colour-coded green/amber/red) alongside the risk badge and referral decision — far more visual impact than a plain number.
-
-### 📄 Clinical Handover Summary
-One-click download of a formatted `.txt` handover note per patient — includes date/time, patient details, risk score, red flags, referral instructions, and disclaimer. Ready to hand to the receiving facility.
-
-### 📊 KAP Insights Tab in Analytics
-The research that motivated the entire platform now has its own dedicated analytics tab:
-- Waterfall chart of the 36-point attitude–practice gap
-- Practice score bar chart broken down by profession
-- The core insight card explaining why CHWs are the primary target user
-
-### 🎨 Design System Upgrade
-- Switched to **Plus Jakarta Sans** — sharper, more professional than the previous Nunito
-- **Glassmorphism cards** with backdrop blur replace flat cards
-- **Pink/purple gradient brand identity** consistent across hero, sidebar, and UI elements
-- **Active patient banner** in the sidebar — always visible as you navigate across modules
-- **Builder bio** ("Built by Kerubo Bosire · Build54 · Solo builder · BSc Actuarial Science") always visible to anyone exploring the repo
-
 ## 🔗 The 7 Live Connections
 
 | # | From | To | What flows automatically |
