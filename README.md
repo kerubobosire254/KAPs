@@ -13,7 +13,8 @@
 
 ### Breastcare app snippet
 
-<img width="1203" height="572" alt="image" src="https://github.com/user-attachments/assets/f266ac47-23ba-4169-bdbf-2408f088da62" />
+<img width="1353" height="595" alt="image" src="https://github.com/user-attachments/assets/f7b9cf58-d0cd-47a5-ad63-cb5155b661cc" />
+
 
 ### Breast Care App Live Demo
 
